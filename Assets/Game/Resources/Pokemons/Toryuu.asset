@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a0972e08f177014aaea1bd36203024f, type: 3}
+  m_Name: Toryuu
+  m_EditorClassIdentifier: 
+  name: "\u5C60\u9F8D"
+  deszription: 
+  frontSprite: {fileID: 21300000, guid: c57ea17f6acb27249be39be8cfa86d23, type: 3}
+  backSprite: {fileID: 21300000, guid: 38efb8e6c4b6bf14185c8c1d1ac2712d, type: 3}
+  type1: 15
+  type2: 0
+  maxHP: 25
+  attack: 25
+  defense: 100
+  spAttack: 100
+  spDefense: 100
+  speed: 100
+  learnableMoves:
+  - _base: {fileID: 11400000, guid: ae2c0fed12422134eba285ca14133912, type: 2}
+    level: 1
+  - _base: {fileID: 11400000, guid: 45ddb06a280221a498a2057d6772acbc, type: 2}
+    level: 1

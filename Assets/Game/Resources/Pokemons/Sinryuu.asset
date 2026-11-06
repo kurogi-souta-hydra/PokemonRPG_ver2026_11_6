@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a0972e08f177014aaea1bd36203024f, type: 3}
+  m_Name: Sinryuu
+  m_EditorClassIdentifier: 
+  name: "\u68EE\u9F8D"
+  deszription: 
+  frontSprite: {fileID: 21300000, guid: 95963ef3cbba3ac4d89db04b8e153acf, type: 3}
+  backSprite: {fileID: 21300000, guid: 38efb8e6c4b6bf14185c8c1d1ac2712d, type: 3}
+  type1: 18
+  type2: 0
+  maxHP: 100
+  attack: 100
+  defense: 100
+  spAttack: 100
+  spDefense: 100
+  speed: 100
+  learnableMoves:
+  - _base: {fileID: 11400000, guid: 793dc7c523918ab46811443445b2d16f, type: 2}
+    level: 1
+  - _base: {fileID: 11400000, guid: 45ddb06a280221a498a2057d6772acbc, type: 2}
+    level: 1
+  - _base: {fileID: 11400000, guid: 7a527cc8cc3dc1c4890871ec45e4933c, type: 2}
+    level: 1
+  - _base: {fileID: 11400000, guid: 40975c3410efb954db7ebc22dfd72047, type: 2}
+    level: 1

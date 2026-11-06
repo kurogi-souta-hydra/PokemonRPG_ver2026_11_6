@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a0972e08f177014aaea1bd36203024f, type: 3}
+  m_Name: Hyourou
+  m_EditorClassIdentifier: 
+  name: "\u6C37\u72FC"
+  deszription: 
+  frontSprite: {fileID: 21300000, guid: 0ebee957535b720409b881b167ef84fc, type: 3}
+  backSprite: {fileID: 21300000, guid: 38efb8e6c4b6bf14185c8c1d1ac2712d, type: 3}
+  type1: 6
+  type2: 0
+  maxHP: 100
+  attack: 100
+  defense: 100
+  spAttack: 100
+  spDefense: 100
+  speed: 100
+  learnableMoves:
+  - _base: {fileID: 11400000, guid: 8cf55c10dbce1aa4d893d31aa90ea8ba, type: 2}
+    level: 1
+  - _base: {fileID: 11400000, guid: a02fde44716273347a19ccd01be88dd5, type: 2}
+    level: 1

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 45cc66979137dee4ea07e98c27c3dec2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerUnit: {instanceID: 0}
+  - enemyUnit: {instanceID: 0}
+  - playerHud: {instanceID: 0}
+  - enemyHud: {instanceID: 0}
+  - dialogBox: {instanceID: 0}
+  - battleBackground: {instanceID: 0}
+  - fadeManager: {instanceID: 0}
+  - sound1: {fileID: 8300000, guid: 3f351d75b95e7b544bc7c516586f22c9, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
